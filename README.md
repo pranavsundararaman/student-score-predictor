@@ -1,3 +1,5 @@
+Live demo: https://student-score-predictor-k4bszbhcstcavb3enrhljr.streamlit.app/
+
 # Student Exam Score Predictor
 
 A Machine Learning web application that predicts student exam scores using Linear Regression.
